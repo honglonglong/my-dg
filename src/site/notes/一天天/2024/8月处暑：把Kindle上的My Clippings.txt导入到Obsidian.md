@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//2024/8-kindle-my-clippings-txt-obsidian/","tags":["技术研究"],"created":"2024-08-31T17:29:40.365+08:00"}
+{"dg-publish":true,"permalink":"/一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"]}
 ---
 
 最近在完善自己的生活工作流，其中一项是看完书把笔记存到obsidian，为后续消化整理做准备。
