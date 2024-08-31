@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"created":"2024-08-31T17:29:40.365+08:00","updated":"2024-08-31T21:15:10.328+08:00"}
+{"dg-publish":true,"permalink":"/一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"created":"2024-08-31T17:29:40.365+08:00","updated":"2024-08-31T23:15:16.440+08:00"}
 ---
 
+## 技术需求背景
 最近在完善自己的生活工作流，其中一项是看完书把笔记存到obsidian，为后续消化整理做准备。
 
+## 尝试
 现有的工具试过下面这些，都不能满足我的要求（如实表达，感恩做出的贡献）：
 1. 不能在ipad obsidian上运行 (Kindle Highlights)
 2. 导入格式挺好看，也给了我启发，但是标记位置什么的都没了 ，不过可以做为备用（Kindle Highlight Importer from HTML)
@@ -11,12 +13,14 @@
 4. 导出太多就收费（clippings.io）
 5. 太孤立不能存到obsidian （klib app）
 
+## AI帮助过程
 下面的过程完全依靠moonshot kimi助手，即使本人是程序员，但要花时间去研究api也很头疼，于是先靠AI起手，没想到它完成的非常出色，我只微调了一些bug和显示上的不足。
 
 耗时将近4小时，这要是让我自己写不知道要用多长时间。
 
 点击链接查看和 Kimi 智能助手的对话 https://kimi.moonshot.cn/share/cr9eebmgi3pu4dp0437g
 
+## AI的总结
 下面的总结也是让AI它自己弄的：
 > 在这个对话中，我们讨论了如何使用 Obsidian 的 `runjs` 插件来处理 Kindle 的 `My Clippings.txt` 文件，并将其内容转换为 Markdown 格式。以下是对话的主要要点：
 > 
@@ -38,7 +42,7 @@
 
 接下来我要做的是把从kindle app，iBook里的笔记，转化成markdown并保存到obsidian中，不过这个不急了，因为暂时用不上，时间全用来做这个反倒没时间看书了。
 
-最终的代码供参考：
+## 最终的代码供参考
 
 ```js RunJS_removeme="{n:'Book/Import Kindle Clippings1', t:'s'}"
 
