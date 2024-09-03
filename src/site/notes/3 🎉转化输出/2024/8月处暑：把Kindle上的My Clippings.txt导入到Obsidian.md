@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian.md","permalink":"/一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"created":"2024-08-31T17:29:40.365+08:00","updated":"2024-08-31T23:15:16.440+08:00"}
+{"dg-publish":true,"dg-path":"一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian.md","permalink":"/一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"created":"2024-08-31T17:29:40.365+08:00","updated":"2024-09-03T20:56:34.723+08:00"}
 ---
 
 ## 技术需求背景
@@ -9,7 +9,7 @@
 现有的工具试过下面这些，都不能满足我的要求（如实表达，感恩做出的贡献）：
 1. 不能在ipad obsidian上运行 (Kindle Highlights)
 2. 导入格式挺好看，也给了我启发，但是标记位置什么的都没了 ，不过可以做为备用（Kindle Highlight Importer from HTML)
-3. 丢数据 (memo.bookfere.com)
+3. 旧版本的 Kindle 剪切文件会丢数据 (memo.bookfere.com)
 4. 导出太多就收费（clippings.io）
 5. 太孤立不能存到obsidian （klib app）
 
