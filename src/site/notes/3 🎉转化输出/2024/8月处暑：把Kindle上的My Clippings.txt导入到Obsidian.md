@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian.md","permalink":"/一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"created":"2024-08-31T17:29:40.365+08:00","updated":"2024-09-03T20:56:34.723+08:00"}
+{"dg-publish":true,"dg-path":"一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian.md","permalink":"/一天天/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"created":"2024-08-31T17:29:00","updated":"2024-09-03T20:55:00"}
 ---
 
 ## 技术需求背景
