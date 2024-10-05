@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2 🗂️卡片盒/003a2-Obsidian卡片笔记/","noteIcon":"1","created":"2024-09-22T22:33","updated":"2024-10-04T09:12"}
+{"dg-publish":true,"permalink":"/2 🗂️卡片盒/003a2-Obsidian卡片笔记/","noteIcon":"1","created":"2023-09-22T22:33:00","updated":"2024-10-04T09:24"}
 ---
 
 
