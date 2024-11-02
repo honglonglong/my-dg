@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3 🎉转化输出/2024/10月霜降：Omnivore的替代方案/","tags":["思考"],"noteIcon":"1","created":"2024-11-02T09:06","updated":"2024-11-02T09:31"}
+{"dg-publish":true,"permalink":"/3 🎉转化输出/2024/10月霜降：Omnivore的替代方案/","tags":["思考"],"noteIcon":"1","created":"2024-11-02T09:06","updated":"2024-11-02T09:35"}
 ---
 
 一直在用的阅读软件omnivore，11月30日要关停了，逐一分析以及分享我对这个软件的使用需求，和试探过程如下：
 
-ℹ️rss
+🗞️rss
 - obsidian rss reader插件： 不好用，文章内容没下载下来
 - matter：对这个app又爱又恨，功能很全，但操作性上差一点，而且国内用起来有点慢，也不能同步到obsidian.
 - 在试用了很多在线服务后（wallabag, follow.is, follow.it)，意识到万一还像omnivore一样怎么办，还是控制在自己手里或者选择大厂的最靠谱了，于是打消了继续试在线服务的计划，试着看kindle能不能满足我的需求。
