@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3 🎉转化输出/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"noteIcon":"1","created":"2024-08-31T17:29:00","updated":"2024-09-03T20:55:00"}
+{"dg-publish":true,"permalink":"/3 🎉转化输出/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"noteIcon":"1","created":"2024-08-31T17:29:00","updated":"2025-03-28T21:38"}
 ---
 
 ## 技术需求背景
@@ -192,8 +192,8 @@ async function main()
 { // 立即执行的异步函数
   try {
     //RunJS.log("Start");
-	const myClippingsPath = '1 📥收集箱/📚读书心得/Kindle/My Clippings.txt'; // 替换为你的My Clippings.txt文件路径
-	const targetFolder = '1 📥收集箱/📚读书心得/Kindle'; // 替换为你想要创建Markdown文件的目标文件夹路径
+	const myClippingsPath = '1收集箱/读书心得/Kindle/My Clippings.txt'; // 替换为你的My Clippings.txt文件路径
+	const targetFolder = '1收集箱/读书心得/Kindle'; // 替换为你想要创建Markdown文件的目标文件夹路径
 
     //RunJS.log(`Starting the process...`);
     
