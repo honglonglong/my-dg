@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3转化输出/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","tags":["技术研究"],"noteIcon":"1","created":"2024-08-31T17:29:00","updated":"2025-03-28T21:38"}
+{"dg-publish":true,"permalink":"/3转化输出/2024/8月处暑：把Kindle上的My Clippings.txt导入到Obsidian/","metatags":"kindle，Obsidian，高亮笔记，clipping","tags":["技术研究"],"noteIcon":"1","created":"2024-08-31T17:29:00","updated":"2025-09-13T16:54"}
 ---
 
 ## 技术需求背景

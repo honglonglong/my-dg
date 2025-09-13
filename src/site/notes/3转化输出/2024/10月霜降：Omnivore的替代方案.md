@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3转化输出/2024/10月霜降：Omnivore的替代方案/","tags":["思考"],"noteIcon":"1","created":"2024-11-02T09:06","updated":"2024-11-02T09:42"}
+{"dg-publish":true,"permalink":"/3转化输出/2024/10月霜降：Omnivore的替代方案/","metatags":"Omnivore, RSS, newsletter, Kindle, Obsidian","tags":["思考"],"noteIcon":"1","created":"2024-11-02T09:06","updated":"2025-09-13T16:56"}
 ---
 
 一直在用的阅读软件omnivore，11月30日要关停了，逐一分析以及分享我对这个软件的使用需求，和试探过程如下：
