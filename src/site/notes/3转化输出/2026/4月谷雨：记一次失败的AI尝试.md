@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3转化输出/2026/4月谷雨：记一次失败的AI尝试/","metatags":"AI，小程序，pwa，手账","tags":["技术研究"],"noteIcon":"1","created":"2026-04-21T21:09","updated":"2026-04-21T21:54","dg-note-properties":{"tags":["技术研究"],"created":"2026-04-21T21:09","updated":"2026-04-21T21:54"}}
+{"dg-publish":true,"permalink":"/3转化输出/2026/4月谷雨：记一次失败的AI尝试/","metatags":"AI，小程序，pwa，手账","tags":["技术研究"],"noteIcon":"1","created":"2026-04-21T21:09","updated":"2026-04-21T22:09","dg-note-properties":{"tags":["技术研究"],"created":"2026-04-21T21:09","updated":"2026-04-21T22:09"}}
 ---
 
 最近看小红书好多减压视频，其中有一个就是做手账的，用邮票压花器把随便一片纸压成邮票的样子，然后再贴到小本子上。整体过程和最终的成果都让人感觉很舒服。
